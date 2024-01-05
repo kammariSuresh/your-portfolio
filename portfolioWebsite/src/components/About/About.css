@@ -1,0 +1,31 @@
+
+.about-section {
+    max-width: 800px;
+    height: 60vh;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e6f7ff;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-section h2 {
+    color: #007bff;
+  }
+  
+  .about-section input,
+  .about-section textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: none; /* Remove borders */
+    outline: none;
+  }
+  
+  .about-section p {
+    color: #333;
+  }
+  
